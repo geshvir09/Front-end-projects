@@ -1,5 +1,5 @@
 Blog website snapshots
-My blog &amp; e-commerce website front-end snapshots.
+- Ongoing project
 ![Screenshot (1127)](https://user-images.githubusercontent.com/83790746/162563292-c8fdcfe5-a270-412b-9612-7459056feb5e.png)
 ![Screenshot (1134)](https://user-images.githubusercontent.com/83790746/162563297-550d5821-9796-41f3-88c4-250fd4c940b8.png)
 ![Screenshot (1128)](https://user-images.githubusercontent.com/83790746/162563298-4de1ca32-e201-481b-b4ff-721054fbe8f1.png)
