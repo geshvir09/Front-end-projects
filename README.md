@@ -11,7 +11,7 @@ Blog website snapshots
 
 
 E-commerce website snapshots
--Ongoing project
+- Ongoing project
 
 ![Screenshot (1135)](https://user-images.githubusercontent.com/83790746/162563473-7dd8152a-44b2-44a9-b047-fa76e004300b.png)
 ![Screenshot (1136)](https://user-images.githubusercontent.com/83790746/162563477-9f53c8ae-1818-4dd8-8a78-6005728445ac.png)
